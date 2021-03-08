@@ -11,6 +11,7 @@
 		494EBD0C25F60FF700C5EA00 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494EBD0B25F60FF700C5EA00 /* ContentView.swift */; };
 		494EBD0E25F60FF900C5EA00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 494EBD0D25F60FF900C5EA00 /* Assets.xcassets */; };
 		494EBD1125F60FF900C5EA00 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 494EBD1025F60FF900C5EA00 /* Preview Assets.xcassets */; };
+		494EBD1A25F6158800C5EA00 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494EBD1925F6158800C5EA00 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		494EBD0D25F60FF900C5EA00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		494EBD1025F60FF900C5EA00 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		494EBD1225F60FF900C5EA00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		494EBD1925F6158800C5EA00 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				494EBD0925F60FF700C5EA00 /* LearningGitHubApp.swift */,
 				494EBD0B25F60FF700C5EA00 /* ContentView.swift */,
+				494EBD1925F6158800C5EA00 /* MyModel.swift */,
 				494EBD0D25F60FF900C5EA00 /* Assets.xcassets */,
 				494EBD1225F60FF900C5EA00 /* Info.plist */,
 				494EBD0F25F60FF900C5EA00 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				494EBD0C25F60FF700C5EA00 /* ContentView.swift in Sources */,
+				494EBD1A25F6158800C5EA00 /* MyModel.swift in Sources */,
 				494EBD0A25F60FF700C5EA00 /* LearningGitHubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
